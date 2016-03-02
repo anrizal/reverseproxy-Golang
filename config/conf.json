@@ -1,0 +1,6 @@
+{
+  "Target": "http://localhost:8080",
+  "ListenOn": "localhost:8888",
+  "StatFolder" : "/home/log/",
+  "CreateNewFileEveryXMinutes" : 1
+}
